@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning and growing my skills with each line of code I write. Lifelong learning is my motto!
 
-- 💞️ I’m looking to collaborate on exciting open-source projects and connect with fellow tech enthusiasts. Let's create something amazing together!
-
 - 📫 How to reach me? Feel free to drop me a message right here on GitHub or reach out via email at ezhatiaraptk@gmail.com. Let's code and innovate together! 🚀🌟
 
 <!---
