@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezhatiara, your friendly neighborhood coder!
 
-- 👀 I’m interested in the limitless world of front end development and data science.
+- 👀 I’m interested in the limitless world of data science and machine learning.
 
 - 🌱 I’m currently learning and growing my skills with each line of code I write. Lifelong learning is my motto!
 
